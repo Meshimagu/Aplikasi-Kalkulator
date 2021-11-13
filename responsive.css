@@ -1,0 +1,14 @@
+@media all and (max-width: 1000px) {
+    #container{
+        width: 1000px;
+        height: 550px;
+        margin: 20px auto;	
+    }
+}
+
+@media all and (max-width: 670px) {
+    #container{
+        width : 500px;
+        height: 300px;
+        margin: 10px auto;
+}
